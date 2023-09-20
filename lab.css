@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    margin: 10px;
+    background-image: url(https://astanait.edu.kz/wp-content/uploads/2021/12/DSC08375-copy-scaled-800x533.jpg);
+    color: white;
+}
+*{
+    margin: 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Sign_up{
+    background-color: rgb(49, 186, 225);
+}
+.Personal_info{
+    background-color: rgb(206, 45, 177);
+}
+.Contact_info{
+    background-color: rgb(227, 46, 112);
+}
+.Education_info{
+    background-color: rgb(166, 44, 215);
+}
+legend{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    -webkit-text-stroke: 0.3px;
+    -webkit-text-stroke-color: white;
+}
